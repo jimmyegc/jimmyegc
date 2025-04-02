@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xwYTZmZHVlMTBxMG9nOWI1ZGVoYzRpbTRhdDJmam53bWg4bWNsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PiHVDq72VLkpvyCwob/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF1ZXAzdGlld2x2cTZ1NmYyemljN200MzA2Y2RkbzM5Z3p3bmFhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200"/>
 </div>
-
-![Banner](github-header-image.png)
 
 ### Skills
 

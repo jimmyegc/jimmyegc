@@ -18,6 +18,8 @@ Here are some ideas to get you started:
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF1ZXAzdGlld2x2cTZ1NmYyemljN200MzA2Y2RkbzM5Z3p3bmFhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200"/>
 </div>
 
+![Banner de jimmyegc](github-banner-profile.png)
+
 ### Skills
 
 <p align="left">

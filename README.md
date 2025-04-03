@@ -4,14 +4,9 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF1ZXAzdGlld2x2cTZ1NmYyemljN200MzA2Y2RkbzM5Z3p3bmFhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="120" height="120" />
 </div>
 
+### Connect with me
 
-  
-
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-
+<div id="badges" align="center">
   <a href="https://github.com/jimmyegc" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
@@ -38,25 +33,15 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jimmyegc&&style=flat-square)  
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+### Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyegc&hide_border=true&layout=compact" align="center" style="width: 100%" />
+</div>
 
-texto  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyegc&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-
-</td></tr></table>  
-  
-
-<div align="left">
-            <a href="https://www.buymeacoffee.com/jimmyegc" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
-            </a></div>  
+<div align="center">
+  <a href="https://www.buymeacoffee.com/jimmyegc" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" />
+  </a>
+</div>  
 
 

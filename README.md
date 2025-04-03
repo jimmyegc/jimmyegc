@@ -29,15 +29,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyegc&hide_progress=true&layout=compact&theme=dark)
 
-<img src="https://komarev.com/ghpvc/?username=jimmyegc&style=flat-square&color=blue" alt=""/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=jimmyegc&&style=flat-square)  
-
 ### Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyegc&hide_border=true&layout=compact" align="center" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyegc&layout=compact&theme=dark" align="center" />
 </div>
-
+<!-- Profile Counter -->
+<img src="https://komarev.com/ghpvc/?username=jimmyegc&style=flat-square&color=blue" alt=""/>
+<!-- Buy me a coffee -->
 <div align="center">
   <a href="https://www.buymeacoffee.com/jimmyegc" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" />

@@ -36,4 +36,27 @@
 
 <img src="https://komarev.com/ghpvc/?username=jimmyegc&style=flat-square&color=blue" alt=""/>
 
+![Profile views counter](https://komarev.com/ghpvc/?username=jimmyegc&&style=flat-square)  
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+texto  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyegc&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+
+</td></tr></table>  
+  
+
+<div align="left">
+            <a href="https://www.buymeacoffee.com/jimmyegc" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="left"
+                />
+            </a></div>  
+
 

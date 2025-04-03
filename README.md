@@ -33,6 +33,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyegc&layout=compact&theme=dark" align="center" />
 </div>
+
 <!-- Profile Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jimmyegc&style=flat-square&color=blue" alt=""/>

@@ -34,7 +34,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyegc&layout=compact&theme=dark" align="center" />
 </div>
 <!-- Profile Counter -->
-<img src="https://komarev.com/ghpvc/?username=jimmyegc&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jimmyegc&style=flat-square&color=blue" alt=""/>
+</div>
 <!-- Buy me a coffee -->
 <div align="center">
   <a href="https://www.buymeacoffee.com/jimmyegc" target="_blank" style="display: inline-block;">

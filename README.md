@@ -1,44 +1,85 @@
-## Hey 👋, I'm Jimmy Ernesto García Contreras !  
+## Hey 👋, I'm Jimmy Ernesto García Contreras!  
 
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF1ZXAzdGlld2x2cTZ1NmYyemljN200MzA2Y2RkbzM5Z3p3bmFhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="120" height="120" />
 </div>
 
-### Connect with me
+---
+
+### 👨‍💻 About Me  
+
+Soy un **Full Stack Developer** con experiencia construyendo aplicaciones web modernas y escalables.  
+Me especializo en **frontend con React y backend con Node.js / .NET**, integrando soluciones en la nube (AWS, GCP, Supabase, Firebase) y bases de datos SQL/NoSQL.  
+
+- 🚀 Actualmente desarrollo proyectos **SaaS** y soluciones a la medida para empresas.  
+- 🧩 Me apasiona la **arquitectura de software limpia**, la organización de proyectos y el desarrollo de **componentes reutilizables**.  
+- 🌱 Siempre aprendiendo nuevas tecnologías para mantenerme al día y mejorar como programador.  
+- 🎯 Objetivo: crear productos digitales que ayuden a las personas y negocios a crecer.  
+
+---
+
+### 🔗 Connect with Me  
 
 <div id="badges" align="center">
   <a href="https://github.com/jimmyegc" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
   </a>
   <a href="https://www.linkedin.com/in/jimmyegc/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
   </a>
-  <!-- <a href="https://www.youtube.com/@elmenikmati" target="_blank">
-    <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-  </a> -->
-</div>
-
-### Skills
-<p align="center"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify"> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&amp;logo=render&amp;logoColor=white" alt="Render"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net"> <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="Astro"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&amp;logo=buefy&amp;logoColor=48289E" alt="Buefy"> <img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&amp;logo=bulma&amp;logoColor=white" alt="Bulma"> <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&amp;logo=chart.js&amp;logoColor=white" alt="Chart.js"> <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&amp;logo=daisyui&amp;logoColor=white" alt="DaisyUI"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js"> <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&amp;logo=fastify&amp;logoColor=white" alt="Fastify"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"> <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&amp;logo=react%20query&amp;logoColor=white" alt="React Query"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" alt="React Router"> <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&amp;logo=reacthookform&amp;logoColor=white" alt="React Hook Form"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React"> <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&amp;logo=strapi&amp;logoColor=white" alt="Strapi"> <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D" alt="Vue.js"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&amp;logo=styled-components&amp;logoColor=white" alt="Styled Components"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS"> <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx"> <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&amp;logo=appwrite&amp;logoColor=white" alt="Appwrite"> <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&amp;logo=firebase&amp;logoColor=ffcd34" alt="Firebase"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&amp;logo=bitbucket&amp;logoColor=white" alt="Bitbucket"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud"> <img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&amp;logo=glitch&amp;logoColor=white" alt="Glitch"> <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&amp;logo=vuetify&amp;logoColor=AEDDFF" alt="Vuetify"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS"> <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&amp;logo=nuxt.js&amp;logoColor=#00DC82" alt="Nuxt JS"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&amp;logo=JSON%20web%20tokens" alt="JWT"> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&amp;logo=Prisma&amp;logoColor=white" alt="Prisma"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&amp;logo=Sequelize&amp;logoColor=white" alt="Sequelize"> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&amp;logo=Twilio&amp;logoColor=white" alt="Twilio"> <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&amp;logo=swagger&amp;logoColor=white" alt="Swagger"> <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&amp;logo=sonarqube&amp;logoColor=4E9BCD" alt="SonarQube"></p>
-
-### Github Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyegc&layout=compact&theme=dark" align="center" />
-</div>
-
-<br />
-<!-- Profile Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jimmyegc&style=flat-square&color=blue" alt=""/>
-</div>
-
-<br />
-<!-- Buy me a coffee -->
-<div align="center">
-  <a href="https://buymeacoffee.com/menikmati" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" />
+  <a href="https://jimmygarcia.dev/es/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-</div>  
+</div>
 
+---
 
+### 🛠️ Tech Stack  
+
+<p align="center">
+  <!-- frontend -->
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
+  
+  <!-- backend -->
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" />
+
+  <!-- databases -->
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+  <!-- cloud -->
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+
+  <!-- tools -->
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+---
+
+### 📊 Github Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyegc&layout=compact&theme=dark" />
+</div>
+
+---
+
+### ☕ Support  
+
+<div align="center">
+  <a href="https://buymeacoffee.com/menikmati" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" />
+  </a>
+</div>

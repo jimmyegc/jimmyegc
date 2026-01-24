@@ -8,8 +8,8 @@
 
 ### 👨‍💻 About Me  
 
-Soy un **Full Stack Developer** con experiencia construyendo aplicaciones web modernas y escalables.  
-Me especializo en **frontend con React y backend con Node.js / .NET**, integrando soluciones en la nube (AWS, GCP, Supabase, Firebase) y bases de datos SQL/NoSQL.  
+Soy un **Fronted** / **Full Stack Developer** con experiencia construyendo aplicaciones web modernas y escalables.  
+Me especializo en **frontend con React/Vue/Astro y backend con Node.js/Python/.NET**, integrando soluciones en la nube (AWS, GCP, Supabase, Firebase) y bases de datos SQL/NoSQL.  
 
 - 🚀 Actualmente desarrollo proyectos **SaaS** y soluciones a la medida para empresas.  
 - 🧩 Me apasiona la **arquitectura de software limpia**, la organización de proyectos y el desarrollo de **componentes reutilizables**.  

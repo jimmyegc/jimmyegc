@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jimmy García  
+# 👋 Hey, I'm Jimmy  
 
 ### 🚀 Full Stack Developer | SaaS Builder | Clean Architecture Enthusiast  
 

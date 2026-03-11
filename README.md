@@ -47,7 +47,7 @@ AWS • Supabase • Firebase • Docker • Git
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimmyegc&show_icons=true&theme=dark" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jimmyegc&show_icons=true&theme=dark" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyegc&layout=compact&theme=dark" />
 </p>
 

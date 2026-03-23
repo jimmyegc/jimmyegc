@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Jimmy García  
+# Jimmy García – Full Stack Developer
 
 ### 🚀 Full Stack Developer | SaaS Builder | Clean Architecture Enthusiast  
 
-I build scalable web applications that help businesses grow.
+I build modern web applications focused on performance, scalability, and user experience.
 
 I specialize in crafting modern frontends with **React, Vue & Astro**, and robust backends with **Node.js, .NET & Python**, integrating cloud infrastructure and well-structured databases.
 

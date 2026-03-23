@@ -31,16 +31,22 @@ I care about code quality, performance, and long-term maintainability.
 ## 🛠 Tech Stack
 
 ### Frontend
-React • Vue • Astro • TailwindCSS • SASS  
+React • Vue • Astro • TypeScript • TailwindCSS • SASS  
 
 ### Backend
-Node.js • Fastify • .NET • REST APIs  
+Node.js • Express • Python • Fastify • .NET
 
 ### Databases
-PostgreSQL • MySQL • MongoDB  
+PostgreSQL • MySQL • MongoDB • SQL Server
 
-### Cloud & DevOps
-AWS • Supabase • Firebase • Docker • Git  
+### Infrastructure
+AWS • Nginx • Docker • Linux • Firebase • Supabase
+
+### Tools & Workflow
+Git • GitHub • Jira • Confluence
+
+### Other
+Clean Architecture • Design Patterns • REST APIs
 
 ---
 
